@@ -1,0 +1,2 @@
+# cucumber test profiles - run: $ cucumber -p login_screen_test
+login_screen_test: --tags @log_in --format html --out fca_test_report.html --format pretty

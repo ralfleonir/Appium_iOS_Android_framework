@@ -1,0 +1,11 @@
+source 'https://www.rubygems.org'
+
+gem 'appium_lib'
+gem 'appium_console'
+gem 'rest-client'
+gem 'rspec'
+gem 'cucumber'
+gem 'rspec-expectations'
+gem 'spec'
+gem 'sauce_whisk'
+gem 'pry'
